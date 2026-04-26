@@ -146,10 +146,4 @@ app/src/main/java/com/chefai/toolbox/
 
 ---
 
-## 📄 License
-
-MIT License — 詳見 [LICENSE](LICENSE)
-
----
-
 *v0.6.2 · 2026-04-27 · Built with Kotlin + Jetpack Compose + OpenAI API*
