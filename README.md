@@ -38,7 +38,9 @@
 
 ## 🚀 下載安裝
 
-1. 前往下載頁取得最新版 APK
+**📦 [點此下載最新版 APK（v0.6.2）](https://drive.google.com/file/d/10HYPLadG7iBR5fSXlc0SOmQnvA_RsxeH/view?usp=sharing)**
+
+1. 點上方連結，在 Google Drive 頁面點右上角「⬇ 下載」
 2. 在 Android 手機上點開 APK 安裝（首次安裝需開啟「允許未知來源」）
 3. 安裝後輸入你的 OpenAI API Key 即可開始使用
 
