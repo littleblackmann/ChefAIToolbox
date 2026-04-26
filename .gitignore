@@ -1,0 +1,19 @@
+*.iml
+.gradle/
+**/build/
+/local.properties
+local.properties
+/.idea/
+.DS_Store
+Thumbs.db
+/captures
+.externalNativeBuild/
+.cxx/
+
+# Keystore & signing credentials — NEVER commit
+*.jks
+*.keystore
+keystore.properties
+
+# Kotlin compiler sessions
+.kotlin/

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">廚師 AI 工具箱</string>
+
+    <string name="home_title">CHEF AI</string>
+    <string name="home_subtitle">由廚師打造的 AI 料理助理</string>
+
+    <string name="feature_fridge_title">冰箱食譜生成器</string>
+    <string name="feature_fridge_desc">選擇冰箱現有食材，召喚 2-3 道廚師級食譜</string>
+
+    <string name="feature_calories_title">熱量雷達</string>
+    <string name="feature_calories_desc">對餐點拍照或選照片，AI 即刻估算熱量與營養素</string>
+
+    <string name="feature_settings_title">系統設定</string>
+    <string name="feature_settings_desc">管理 API Key 與 AI 模型選擇</string>
+
+    <string name="coming_soon">功能開發中</string>
+    <string name="back">返回</string>
+
+    <!-- API Key 設定畫面 -->
+    <string name="setup_title">API Key 初始化</string>
+    <string name="setup_welcome">歡迎來到廚師 AI 工具箱</string>
+    <string name="setup_subtitle">請先設定你的 OpenAI API Key</string>
+    <string name="setup_paste_placeholder">貼上你的 sk- 開頭 API Key</string>
+    <string name="setup_validate_btn">驗證並儲存</string>
+</resources>
